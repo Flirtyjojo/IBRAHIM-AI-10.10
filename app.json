@@ -65,7 +65,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "value":"https://github.com/ibrahimaitech/IBRAHIM-AI-10.10",
       "required":true
       
     },
